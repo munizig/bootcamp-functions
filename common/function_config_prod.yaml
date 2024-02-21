@@ -1,4 +1,5 @@
-# Configuration file for dev environment. Will apply to all functions, but will be overwritten by
+# Configuration file for dev environ
+  needs: generate-matrixment. Will apply to all functions, but will be overwritten by
 # configurations files in specific function folder.
 tenant_id: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
 cdf_cluster: westeurope-1
